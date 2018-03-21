@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://qifyxejol.github.io/viewer/sitemap.xml
